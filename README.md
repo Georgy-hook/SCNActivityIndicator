@@ -3,7 +3,7 @@
 A visually engaging 3D loading indicator for ARKit applications, inspired by the standard UIActivityIndicatorView, but rendered as an animated sphere with capsules directly within your augmented reality scene.
 
 ## **Demonstration**
-<img width="200" alt="Main view gif demonstration" src="https://github.com/Georgy-hook/SCNActivityIndicator/assets/78609985/fe9a383f-9606-43e3-aaac-5a495b8facab">
+<img width="200" alt="Main view gif demonstration" src="https://github.com/Georgy-hook/SCNActivityIndicator/assets/78609985/94bb3b46-2952-48ab-a3b9-3920bde01182">
 
 ## **Stack**
 Swift 5, ARKit, SceneKit
