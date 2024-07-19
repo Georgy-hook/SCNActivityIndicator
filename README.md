@@ -1,5 +1,7 @@
 ## **SCNActivityIndicator**
-
+[![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg?style=flat)](https://swift.org)
+[![Platform](https://img.shields.io/badge/platform-ios-lightgrey.svg)](https://developer.apple.com/ios)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 A visually engaging 3D loading indicator for ARKit applications, inspired by the standard UIActivityIndicatorView, but rendered as an animated sphere with capsules directly within your augmented reality scene.
 
 ## **Demonstration**
